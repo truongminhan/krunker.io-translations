@@ -175,15 +175,15 @@ settings.interface.dmg Hiển thị Damege
 settings.interface.dmgType Show Damage
 settings.interface.dmgType.default Rounded
 settings.interface.dmgType.float Float
-settings.interface.dmgCol Màu Damege
-settings.interface.critCol Crit Color
+settings.interface.dmgCol Màu Damage
+settings.interface.critCol Màu Crit
 settings.interface.header Interface
 settings.interface.scale UI Scale
 settings.interface.theme Game Theme
 settings.interface.ui Hiển thị UI
 settings.interface.scoreboard Sử dụng bảng điểm cũ
 settings.interface.oldBrowser Sử dụng trình duyệt cũ
-settings.interface.rarityanim Disable Rarity Animations
+settings.interface.rarityanim Tắt hoạt ảnh độ hiếm
 settings.interface.showPfp Hiển thị avt hồ sơ
 settings.interface.showTradeMsg Hiển thị tin nhắn giao dịch
 settings.interface.hideNonTrade Hide Non-Tradable Skins
@@ -191,7 +191,7 @@ settings.interface.hp Dynamic Thanh XP
 settings.interface.dmgScale Damage Scale
 settings.interface.killf Show Kill Feed
 settings.interface.ping Hiển thị Ping
-settings.interface.net-stats Show Network Stats
+settings.interface.net-stats Hiển thị thông số mạng
 settings.interface.fps Hiển thị FPS
 settings.interface.deaths Hiển thị số lần chết (kí hiệu bên phải trg trận)
 settings.interface.kd Show K/D Counter
