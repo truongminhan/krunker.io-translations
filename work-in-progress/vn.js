@@ -104,7 +104,7 @@ settings.experimental.shaderRendering Instance Rendering
 settings.experimental.mouseAccel Mouse Acceleration
 settings.experimental.tbInterp TB Interpolation
 settings.client.header Client
-settings.client.unlimitedFrames Unlimited FPS
+settings.client.unlimitedFrames Unlimited FPS FPS không giới hạ
 settings.client.gameCap Game Capture
 settings.client.experimental Experimental Features
 settings.client.discordRPC Discord RPC
@@ -191,7 +191,7 @@ settings.interface.hp Dynamic Thanh XP
 settings.interface.dmgScale Damage Scale
 settings.interface.killf Show Kill Feed
 settings.interface.ping Hiển thị Ping
-settings.interface.net-stats Show Network Stats
+settings.interface.net-stats Show Network Stats Hiển thị thông số mạng
 settings.interface.fps Hiển thị FPS
 settings.interface.deaths Hiển thị số lần chết (kí hiệu bên phải trg trận)
 settings.interface.kd Show K/D Counter
@@ -308,12 +308,12 @@ settings.gameprivacy.header Quyền riêng tư trong trò chơi
 settings.gameprivacy.streamer Chế độ streamer
 settings.gameprivacy.anon Chế độ ẩn danh
 settings.gameprivacy.hideGameTitle Ân tiêu đề trò chơi
-settings.gameprivacy.showRegion Show Region Info
-settings.gameprivacy.verified Show Verified Badge
-settings.gameprivacy.premium Show Premium Badge
-settings.gameprivacy.partner Show Partner Badge
-settings.gameprivacy.rank Show Ranked Badge
-settings.gameprivacy.custom Show Custom Badge
+settings.gameprivacy.showRegion Show Region Info 
+settings.gameprivacy.verified Show Verified Badge Hiển thị huy hiệu đã xác minh 
+settings.gameprivacy.premium Show Premium Badge Hiển thị huy hiệu cao cấp
+settings.gameprivacy.partner Show Partner Badge Hiển thị huy hiệu đối tác
+settings.gameprivacy.rank Show Ranked Badge Hiển thị huy hiệu xếp hạng
+settings.gameprivacy.custom Show Custom Badge Hiển thị huy hiệu tuỳ chỉnh
 settings.gameplay.header Gameplay
 settings.gameplay.gpSetts Cài đặt Gameplay
 settings.gameplay.sensitivityX X Độ nhạy
@@ -490,7 +490,7 @@ windows.loadout.color.chat Màu tên trong hộp chat
 windows.loadout.color.hair Hair Color
 windows.loadout.dye Trang phục
 windows.loadout.pet Thú
-windows.loadout.wrist Wrist
+windows.loadout.wrist Wrist Cổ tay
 windows.loadout.stat Killcard stat
 windows.loadout.flag Cờ/quốc gia
 windows.loadout.badge Custom Badge
